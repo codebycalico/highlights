@@ -1,4 +1,4 @@
-# Highlights
+# Katakana Matrix
 ## Code by Calico Randall
 
-This code is incomplete and not recently tested. Needs an HTML to host the JavaScript code.
+Using JavaScript to create a code that acts similar to the stream of characters in the movie "The Matrix". 
